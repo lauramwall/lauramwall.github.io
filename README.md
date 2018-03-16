@@ -2,41 +2,15 @@
 
 Here you will find helpful links to view my work.
 
+```markdown
 Portfolio links:
 - [Dribbble](https://dribbble.com/lwall) _Design work_
 - [GitHub](https://github.com/lwall7722) _Development work_
-- [My website](https://www.lwalldevelopment.com/) _Live portfolio website_
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- [My Website](https://www.lwalldevelopment.com/) _Live portfolio website_
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I make commits to this repository regularly so stay tuned for more updates.
 
-### Jekyll Themes
+### Support/Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lwall7722/lwall7722.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Contact Laura Wall at lwall7722@gmail.com or visit her website [here](https://www.lwalldevelopment.com/).
+Contact Laura Wall at lwall7722@gmail.com or visit her website [here](https://www.lwalldevelopment.com/). All work is owned by Laura Wall.
