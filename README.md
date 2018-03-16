@@ -12,7 +12,16 @@ I make commits to this repository regularly so stay tuned for more updates.
 ### Programming Languages/Software
 
 1. HTML/HTML5
-1.HTML/HTML5
+2. CSS/CSS3
+3. SASS
+4. Emmet (A plugin that greatly improves HTML & CSS workflow)
+5. JavaScript/jQuery
+6. Bootstrap
+7. Git/GitHub (GitKraken and GitHub Desktop)
+8. Adobe Creative Cloud (Illustrator, Photoshop, InDesign, Dreamweaver)
+9. Sublime Text, Atom, Brackets, Visual Studio Code, Xcode, TextMate
+10. Cyberduck (for FTP purposes)
+11. Google Chrome, Google Chrome Canary, Chromium, Firefox, Firefox Quantum: Developer Edition, Firefox Nightly, Safari, Opera
 
 ### Support/Contact
 
