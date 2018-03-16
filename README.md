@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Contact Laura Wall at [lwall7722@gmail.com](lwall7722@gmail.com) or visit her website [here](https://www.lwalldevelopment.com/) and we’ll help you sort it out.
+Contact Laura Wall at [lwall7722@gmail.com](lwall7722@gmail.com) or visit her website [here](https://www.lwalldevelopment.com/).
