@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Laura Wall's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/lwall7722/lwall7722.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you will find helpful links to view my work.
+
+Portfolio links:
+- [Dribbble] (https://dribbble.com/lwall _Design work_
+- [GitHub] (https://github.com/lwall7722 _Development work_
+- [My website] (https://www.lwalldevelopment.com/) _Live portfolio website_
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Contact Laura Wall at [lwall7722@gmail.com](lwall7722@gmail.com) or visit her website [here](https://www.lwalldevelopment.com/).
+Contact Laura Wall at [mailto:lwall7722@gmail.com](lwall7722@gmail.com) or visit her website [here](https://www.lwalldevelopment.com/).
