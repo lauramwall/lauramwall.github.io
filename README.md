@@ -9,7 +9,7 @@ Portfolio links:
 
 I make commits to this repository regularly so stay tuned for more updates.
 
-### Programming Languages/Software
+### Front End Programming Languages/Tools
 
 1. HTML/HTML5
 2. CSS/CSS3
