@@ -18,7 +18,7 @@ I make commits to this repository regularly so stay tuned for more updates.
 5. JavaScript/jQuery
 6. Bootstrap
 7. Git/GitHub (GitKraken and GitHub Desktop)
-8. Adobe Creative Cloud (Illustrator, Photoshop, InDesign, Dreamweaver)
+8. Adobe Creative Cloud (Illustrator, Photoshop, InDesign, Animate, Dreamweaver)
 9. Sublime Text, Atom, Brackets, Visual Studio Code, Xcode, TextMate
 10. Cyberduck (for FTP purposes)
 11. Google Chrome, Google Chrome Canary, Chromium, Firefox, Firefox Quantum: Developer Edition, Firefox Nightly, Safari, Opera
