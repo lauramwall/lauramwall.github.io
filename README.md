@@ -16,12 +16,13 @@ I make commits to this repository regularly so stay tuned for more updates.
 3. SASS
 4. Emmet (A plugin that greatly improves HTML & CSS workflow)
 5. JavaScript/jQuery
-6. Bootstrap 3 and 4
-7. Git/GitHub (GitKraken and GitHub Desktop)
-8. Adobe Creative Cloud (Illustrator, Photoshop, InDesign, Animate, Dreamweaver)
-9. Atom, Brackets, Visual Studio Code, Xcode
-10. Cyberduck (for FTP purposes)
-11. Google Chrome, Google Chrome Canary, Chromium, Firefox, Firefox Quantum: Developer Edition, Firefox Nightly, Safari, Opera
+6. GSAP/Greensock
+7. Bootstrap 3 and 4
+8. Git/GitHub (GitKraken and GitHub Desktop)
+9. Adobe Creative Cloud (Illustrator, Photoshop, InDesign, Animate, Dreamweaver)
+10. Atom, Brackets, Visual Studio Code, Xcode
+11. Cyberduck (for FTP purposes)
+12. Google Chrome, Google Chrome Canary, Chromium, Firefox, Firefox Quantum: Developer Edition, Firefox Nightly, Safari, Opera
 
 ### Support/Contact
 
