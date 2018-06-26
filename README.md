@@ -4,7 +4,7 @@ Here you will find helpful links to view my work.
 
 Portfolio links:
 - [Dribbble](https://dribbble.com/lwall) _Design work_
-- [GitHub](https://github.com/lwall7722) _Development work_
+- [GitHub](https://github.com/lauramwall) _Development work_
 - [My Website](https://www.lwalldevelopment.com/) _Live portfolio website_
 
 I make commits to this repository regularly so stay tuned for more updates.
